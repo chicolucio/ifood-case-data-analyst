@@ -49,7 +49,7 @@ Objetivos detalhados:
 
 Uma descrição detalhada do dataset utilizado está disponível [aqui](data/README.md).
 
-Com um pipeline com pré-processamento, PCA e K-Means, a base foi segmentada em 5 clusters:
+Com um pipeline com pré-processamento, PCA e K-Means, a base foi segmentada em 3 clusters:
 
 ![clusters](images/pca_clusters.png)
 

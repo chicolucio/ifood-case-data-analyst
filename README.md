@@ -9,7 +9,7 @@ Os clientes podem encomendar e adquirir produtos por meio de 3 canais de vendas:
 
 ![pairplot](images/pairplot_clusters.png)
 
-Projeto de ensino utilizado em curso de Ciência de Dados ministrado por mim para a [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/). Baseado no processo seletivo para Analista de Dados do iFood disponível [neste repositório](https://github.com/ifood/ifood-data-business-analyst-test).
+Baseado no processo seletivo para Analista de Dados do iFood disponível [neste repositório](https://github.com/ifood/ifood-data-business-analyst-test).
 
 Descrição completa do case [aqui](case/README.md).
 
@@ -19,9 +19,6 @@ Descrição completa do case [aqui](case/README.md).
 
 ## Objetivos
 
-O objetivo deste projeto é mostrar aos alunos como estruturar um projeto para um processo seletivo que foi aplicado na vida real.
-
-Durante o curso, mostrei a importância de realizar o pré-processamento dos dados, bem como a importância de se realizar a análise exploratória dos dados. Muito foi discutido sobre o que deve ser apresentado para em um documento técnico e o que deve ser apresentado em uma apresentação para um público não técnico.
 
 Objetivos detalhados:
 
@@ -106,3 +103,4 @@ O projeto foi desenvolvido utilizando o Python 3.11.5. Para reproduzir o projeto
 | Seaborn          | 0.12.2 |
 
 Essas são as bibliotecas principais utilizadas no projeto. O relatório foi gerado com a biblioteca [ydata-profiling](https://github.com/ydataai/ydata-profiling), instale-a se quiser reproduzir o relatório. 
+
